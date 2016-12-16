@@ -26,7 +26,7 @@
   <li>Create a sub folder inside your root folder named cmd_ctr</li>
   <li>Create an index.html</li>
   <li>Create a js folder with an app.js file inside</li>
-  <li>Create a css folder with a style.js file inside</li>
+  <li>Create a css folder with a style.css file inside</li>
   <li>Create your HTML structure.</li>
   <li>Link your style.css and app.js files</li>
 </ol>
